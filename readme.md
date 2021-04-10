@@ -34,7 +34,7 @@ How to install PC Monitoring:
 
 ### Screenshots
 
-![Screenshot 1](https://github.com/Mortezanavidi/PC-Monitoring-with-tkinter-and-psutil/tree/main/screenshots/sc1.jpg?raw=true)
+![Screenshot 1](https://github.com/Mortezanavidi/PC-Monitoring-with-tkinter-and-psutil/tree/main/screenshots/sc1.jpg)
 
 ## Code
 
